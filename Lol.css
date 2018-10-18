@@ -14,16 +14,19 @@ p {
     margin-right: auto;
     width: 40%em;
     font-size: 1.2em;
+    font-family: Verdana,sans-serif;
 }
 h1  {
-    color: lightpink;
+    color: darkred;
     text-align: center;
     font-size: 1.7em;
+    font-family: Verdana,sans-serif;
 }
 
 h2 {
     color: lightpink;
     text-align: center;
+    font-size: 1.7em;
 }
 
 img {
